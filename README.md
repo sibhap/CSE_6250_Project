@@ -9,7 +9,7 @@ I used the following environment for the implementation:
 * tensorflow==2.9.0
 * keras==2.9.0
 
-The data files "NOTEEVENTS.csv" and "DIAGNOSES_ICD from MIMIC-III are already part of the repository. 
+Before running the program, you need to apply for MIMIC-III dataset and put two files "NOTEEVENTS.csv" and "DIAGNOSES_ICD.csv" under the same folder of the project. 
 
 Open KSI_TeamD1.ipynb
 
