@@ -1,10 +1,6 @@
-# KSI framework
+# KSI framework | Team D1 | CSE-6250 - Fall 2022
 This repository contains code forked from Knowledge Source Intergration (KSI) framework in the paper
 * **Bai, T., Vucetic, S., Improving Medical Code Prediction from Clinical Text via Incorporating Online Knowledge Sources, The Web Conference (WWW'19), 2019.**
-This was updated for project work of CSE-6250 - Fall 2022
-Team Name - Team D1
-
-
 
 I used the following environment for the implementation:
 * python==3.7.0
