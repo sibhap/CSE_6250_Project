@@ -15,9 +15,15 @@ Before running the program, you need to apply for MIMIC-III dataset and put two 
 Path to download the data - https://physionet.org/content/mimiciii/1.4/
 
 ## Steps to execute
+Copy data and the code to preprocess data to a Google Drive folder CS6250. The file path would look like */My Drive/CS6250*.
 
-Open KSI_TeamD1.ipynb
+### CNN base model
+
+Open KSI_TeamD1.ipynb in colab.
 
 Run the cells in order to create the datasets. (The preprocessing scripts "preprocessing1.py", "preprocessing2.py", "preprocessing3.py" from the original repository need to be run to prepare the datasets.)
 
 The basic CNN model will be saved as *cnn_20_epochs.h5*
+
+### LSTM Base Model
+Open KSI+LSTM.ipynb in colab and execute the code in order
