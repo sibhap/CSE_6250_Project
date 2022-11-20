@@ -10,6 +10,7 @@ I used the following environment for the implementation:
 * keras==2.9.0
 
 Before running the program, you need to apply for MIMIC-III dataset and put two files "NOTEEVENTS.csv" and "DIAGNOSES_ICD.csv" under the same folder of the project. 
+Path to download the data - https://physionet.org/content/mimiciii/1.4/
 
 Open KSI_TeamD1.ipynb
 
